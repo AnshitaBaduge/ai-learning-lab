@@ -9,6 +9,8 @@
 - initial documentation files
 - read-only file scanner with file metadata collection and alphabetical sorting
 - automated scanner tests for metadata, sorting, subdirectories, invalid paths, and file integrity
+- extension-based file categorization for documents, images, videos, audio, archives, and code
+- automated categorizer tests for supported extensions, unknown files, case-insensitive matching, and path inputs
 
 ### planned
 - read-only file scanner
