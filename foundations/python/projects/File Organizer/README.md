@@ -5,7 +5,7 @@ a python project to organize files efficiently and safely.
 
 ## status
 
-in development — read-only file scanning implemented with automated tests.
+in development - read-only file scanning and extension-based file categorization implemented with automated tests.
 
 ## planned features
 
