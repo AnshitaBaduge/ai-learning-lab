@@ -5,7 +5,7 @@ a python project to organize files efficiently and safely.
 
 ## status
 
-in development
+in development — read-only file scanning implemented with automated tests.
 
 ## planned features
 
@@ -37,7 +37,7 @@ the project is being developed incrementally, with tests and documentation updat
 
 ## safety
 
-the initial scanner will be read-only. file modifications will be introduced after preview and conflict handling are implemented.
+the scanner reads file metadata only. it does not move, rename, delete, or modify files. file modifications will be introduced only after preview and conflict handling are implemented.
 
 ## license
 
